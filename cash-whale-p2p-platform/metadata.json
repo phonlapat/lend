@@ -1,0 +1,7 @@
+{
+  "name": "Cash Whale P2P Platform",
+  "description": "A peer-to-peer lending, rentals, and sales platform with AI-powered features. Users can lend, borrow, list properties for rent or sale, manage their finances, and communicate with others.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
