@@ -1,9 +1,8 @@
 {
   "name": "cash-whale-p2p-platform",
-  "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://phonlapat.github.io/cash-whale-p2p-platform",
+  "private": true,
+  "homepage": "https://phonlapat.github.io/lend/cash-whale-p2p-platform",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,15 +11,15 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@google/genai": "^1.3.0",
-    "lucide-react": "^0.511.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.511.0",
+    "@google/genai": "^1.3.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "gh-pages": "^5.0.0",
     "typescript": "~5.7.2",
-    "vite": "^6.2.0"
+    "vite": "^6.2.0",
+    "gh-pages": "^5.0.0"
   }
 }
